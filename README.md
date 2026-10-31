@@ -1,2 +1,2 @@
-# Digital
+https://iptv-org.github.io/iptv/languages/spa.m3uhttps://iptv-org.github.io/iptv/categories/sports.m3u# Digital
 Tv
